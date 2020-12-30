@@ -1,0 +1,11 @@
+.my {
+    list-style-type: none;
+}
+
+.my li {
+    float: left;
+}
+
+.as {
+    text-align: center;
+}
